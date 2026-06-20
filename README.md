@@ -3,10 +3,7 @@
 <!-- Animated Banner -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0c1a2e,50:38bdf8,100:0c1a2e&height=200&section=header&text=Puvith%20Kumar&fontSize=60&fontColor=38bdf8&fontAlignY=38&desc=Full%20Stack%20%7C%20Agentic%20AI%20%7C%20ML%20Engineer&descAlignY=58&descSize=20&descColor=B2EBF2&animation=fadeIn" />
 
-<!-- Typing Animation -->
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=3000&pause=800&color=38bdf8&center=true&vCenter=true&multiline=false&width=700&height=50&lines=🤖+Building+Agentic+AI+Systems;🧠+LangGraph+%7C+LlamaIndex+%7C+Multi-Agent;🌊+Full-Stack+with+Spring+Boot+%2B+React;🔬+Transformers+from+Scratch+in+NumPy;⚡+Turning+Ideas+into+Intelligent+Systems" alt="Typing SVG" />
 
-<br/>
 
 <!-- Social Badges -->
 <a href="https://www.linkedin.com/in/puvith-kumar-59a14325b">
