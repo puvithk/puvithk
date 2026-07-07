@@ -169,20 +169,16 @@ Converts raw text requirements into structured user stories using Python & NLP.
 ---
 
 ## 📊 GitHub Stats
-
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=puvithk&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38bdf8&icon_color=38bdf8&text_color=C9D1D9&ring_color=38bdf8" width="49%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=puvithk&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38bdf8&text_color=C9D1D9" width="49%" />
+  <img src="https://github-readme-stats-cyan-theta-44.vercel.app/api?username=puvithk&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38bdf8&icon_color=38bdf8&text_color=C9D1D9&ring_color=38bdf8" width="49%" />
+  <img src="https://github-readme-stats-cyan-theta-44.vercel.app/api/top-langs/?username=puvithk&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38bdf8&text_color=C9D1D9" width="49%" />
 </div>
-
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=puvithk&theme=tokyonight&hide_border=true&background=0D1117&ring=38bdf8&fire=FF6B35&currStreakLabel=38bdf8" width="70%" />
+  <img src="https://github-readme-streak-stats.vercel.app?user=puvithk&theme=tokyonight&hide_border=true&background=0D1117&ring=38bdf8&fire=FF6B35&currStreakLabel=38bdf8" width="70%" />
 </div>
-
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=puvithk&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=38bdf8&line=38bdf8&point=FF6B35" width="100%" />
 </div>
-
 ---
 
 ## 🤝 Let's Build Together
