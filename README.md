@@ -199,7 +199,7 @@ Converts raw text requirements into structured user stories using Python & NLP.
   <img src="https://img.shields.io/badge/Portfolio-See_My_Work-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" />
 </a>
 &nbsp;
-<a href="mailto:puvithkumar@gmail.com">
+<a href="mailto:puvithkumar2004@gmail.com">
   <img src="https://img.shields.io/badge/Email-Say_Hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
