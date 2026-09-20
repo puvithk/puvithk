@@ -27,7 +27,7 @@
 class PuvithKumar:
     name       = "Puvith Kumar"
     location   = "📍 Mangalore, India"
-    role       = "Full Stack Developer & Agentic AI Engineer"
+    role       = "AI Engineer"
     languages  = ["Python", "Java", "C++", "JavaScript"]
 
     currently_mastering = [
