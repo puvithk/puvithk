@@ -21,6 +21,14 @@
 
 ---
 
+
+<div align="center">
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&pause=1000&color=83C1E9&center=true&vCenter=true&width=600&lines=Building+production+agentic+AI+systems;LangGraph+%2B+FastAPI+%2B+RAG+%2B+multi-agent+orchestration;Currently%3A+AI+Engineer+%40+Sky360;Open-source+%7C+Ubuntu+server+agents+%7C+GraphBash" />
+</div>
+
+
+---
+
 ## 🧬 Who Am I?
 
 ```python
